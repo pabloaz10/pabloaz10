@@ -2,7 +2,10 @@
 
 ## 💻 Desenvolvedor Web em Formação
 
-Atualmente cursando Análise e Desenvolvimento de Sistemas na **Unipar - Universidade Paranaense**.
+Atualmente cursando Análise e Desenvolvimento de Sistemas na **Unipar - Universidade Paranaense**, desenvolvedor na **Gênesis innovating** e responsável pela aplicação **MinhaCidadeapp**
+
+[![](https://img.shields.io/badge/-@genesis_innovating-E4405F?logo=instagram)](https://instagram.com/genesis_innovating)
+[![Badge Custom](https://img.shields.io/badge/MinhaCidade-App-2EA44F?style=flat&logo=data:image/png;base64,=&logoColor=white)](https://www.minhacidade-eventos.com.br)
 
 ---
 
