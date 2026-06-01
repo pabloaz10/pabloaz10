@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/99/7f/fa/997ffacbac73784efd1989d612a55f9e.jpg" alt="Pablo Garcia Profile" style="width:100%;max-height:100px;object-fit:cover;object-position:center;"/>
+  <img src="https://i.ibb.co/r2pQ4JPg/keep-calm.png" alt="Pablo Garcia Profile" style="width:100%;max-height:100px;object-fit:cover;object-position:center;"/>
 </p>
 
 <h1 align="center">Olá, eu sou Pablo Garcia!</h1>
@@ -205,6 +205,6 @@ Participacao ativa em hackathons de inovacao e tecnologia:
 
 <p align="center"><b><i>"Codando um futuro melhor, uma linha por vez."</i></b></p>
   <p align="center">
-    <img src="https://i.ibb.co/hRJnwxLq/a3bec9bac92b292d2c40313843aa55b3.jpg"
- alt="Decorativo" width="150px" style=""/>
+    <img src="https://i.ibb.co/BVb7GbRc/Screenshot-1.png"
+ alt="Decorativo" width="100%" style=""/>
   </p>
