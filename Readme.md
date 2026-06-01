@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/99/7f/fa/997ffacbac73784efd1989d612a55f9e.jpg" alt="Pablo Garcia Profile" style="width:100%;max-height:150px;object-fit:cover;object-position:center;"/>
+  <img src="https://i.pinimg.com/1200x/99/7f/fa/997ffacbac73784efd1989d612a55f9e.jpg" alt="Pablo Garcia Profile" style="width:100%;max-height:100px;object-fit:cover;object-position:center;"/>
 </p>
 
 <h1 align="center">Olá, eu sou Pablo Garcia!</h1>
