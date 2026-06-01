@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/99/7f/fa/997ffacbac73784efd1989d612a55f9e.jpg" alt="Pablo Garcia Profile" style="width:100%;max-height:200px;object-fit:cover;object-position:center;"/>
+  <img src="https://i.pinimg.com/1200x/99/7f/fa/997ffacbac73784efd1989d612a55f9e.jpg" alt="Pablo Garcia Profile" style="width:100%;max-height:150px;object-fit:cover;object-position:center;"/>
 </p>
 
 <h1 align="center">Olá, eu sou Pablo Garcia!</h1>
@@ -20,6 +20,10 @@
 
 ## Projetos em Destaque
 
+<table>
+<tr>
+<td width="50%">
+
 ### MinhaCidade Eventos
 
 Aplicacao web para gestao e divulgacao de eventos municipais de Cianorte. Qualquer pessoa pode adicionar e visualizar eventos da cidade. Aprovado e desenvolvido com apoio do programa de **pre-incubacao do CMCTI** (Centro Municipal de Ciencia, Tecnologia e Inovacao de Cianorte), e tambem aprovado no processo de **incubacao**, recebendo mentoria, suporte estrategico e acompanhamento tecnico.
@@ -29,6 +33,9 @@ Aplicacao web para gestao e divulgacao de eventos municipais de Cianorte. Qualqu
 [![Repo](https://img.shields.io/badge/-Ver_Projeto-2EA44F?style=flat-square&logo=github&logoColor=white)](https://github.com/pabloaz10/MinhaCidade-eventos)
 [![Site](https://img.shields.io/badge/-minhacidade--eventos.com.br-0077B5?style=flat-square&logo=google-chrome&logoColor=white)](https://www.minhacidade-eventos.com.br)
 
+</td>
+<td width="50%">
+
 ### GovernancaApp
 
 Aplicativo criado durante o **Hackathon SmartCities de Londrina**. O cidadao pode votar em propostas que estao na Camara de Vereadores e acompanhar todo o processo ate ser aprovada ou nao.
@@ -37,6 +44,11 @@ Aplicativo criado durante o **Hackathon SmartCities de Londrina**. O cidadao pod
 
 [![Repo](https://img.shields.io/badge/-Ver_Projeto-2EA44F?style=flat-square&logo=github&logoColor=white)](https://github.com/pabloaz10/GovernancaApp)
 
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 ### SerelepeApp - Contador de Calorias
 
 Primeiro projeto de faculdade. Aplicativo mobile para contagem de calorias.
@@ -44,6 +56,9 @@ Primeiro projeto de faculdade. Aplicativo mobile para contagem de calorias.
 **Stack:** React Native, Expo, Node.js, Firebase
 
 [![Repo](https://img.shields.io/badge/-Ver_Projeto-2EA44F?style=flat-square&logo=github&logoColor=white)](https://github.com/pabloaz10/SerelepeAppCal)
+
+</td>
+<td width="50%">
 
 ### GW2 Market
 
@@ -54,13 +69,29 @@ Ferramenta de analise de mercado para o jogo **Guild Wars 2**. Permite verificar
 [![Repo](https://img.shields.io/badge/-GW2_Market-FF6F00?style=flat-square&logo=github&logoColor=white)](https://github.com/pabloaz10/gw2-market)
 [![Repo](https://img.shields.io/badge/-GW2_History-FF6F00?style=flat-square&logo=github&logoColor=white)](https://github.com/pabloaz10/gw2-history-market)
 
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 ### BPMN - Mapeamento de Processos
 
 Sistema em desenvolvimento para mapeamento e modelagem de processos de negocio utilizando BPMN (Business Process Model and Notation).
 
+</td>
+<td width="50%">
+
+### Em breve...
+
+Novos projetos em desenvolvimento. Stay tuned!
+
+</td>
+</tr>
+</table>
+
 ---
 
-## Tecnologias e Ferramentas
+<h2 align="center"> Tecnologias e Ferramentas<h2>
 
 <p align="center">
   <b>Frontend</b><br/>
@@ -112,21 +143,13 @@ Sistema em desenvolvimento para mapeamento e modelagem de processos de negocio u
 
 ---
 
-## Hackathons e Competicoes
+<h2 align="center">Formacao e Hackathons</h2>
 
-Participacao ativa em hackathons de inovacao e tecnologia:
+<table width='100%'>
+<tr>
+<td width="50%">
 
-| Evento                           | Ano  | Posicao      |
-| -------------------------------- | ---- | ------------ |
-| Hackathon Juris - Unipar         | 2025 | 6° lugar     |
-| Hackathon CREA-ARC               | 2024 | **3° lugar** |
-| Hackathon Nasa                   | 2024 | Participante |
-| Hackathon SmartCities - Londrina | 2024 | Participante |
-| Hackathon CTFW                   | 2024 | 6° lugar     |
-
----
-
-## Formacao e Certificacoes
+### Formacao e Certificacoes
 
 **Formacao Academica**
 
@@ -138,6 +161,23 @@ Participacao ativa em hackathons de inovacao e tecnologia:
 - Cidades Inteligentes - ENAP (2023)
 - Workshop Selo Connect Smart Cities Dia 1 e 2 (2023)
 - Design Thinking - Universidade Cruzeiro do Sul (2024)
+
+</td>
+<td width="50%">
+
+### Hackathons e Competicoes
+
+Participacao ativa em hackathons de inovacao e tecnologia:
+
+- **Hackathon Juris** - Unipar (2025) - 6° lugar
+- **Hackathon CREA-ARC** (2024) - **3° lugar**
+- **Hackathon Nasa** (2024) - Participante
+- **Hackathon SmartCities** - Londrina (2024) - Participante
+- **Hackathon CTFW** (2024) - 6° lugar
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -164,3 +204,7 @@ Participacao ativa em hackathons de inovacao e tecnologia:
 ---
 
 <p align="center"><b><i>"Codando um futuro melhor, uma linha por vez."</i></b></p>
+  <p align="center">
+    <img src="https://i.ibb.co/hRJnwxLq/a3bec9bac92b292d2c40313843aa55b3.jpg"
+ alt="Decorativo" width="150px" style=""/>
+  </p>
